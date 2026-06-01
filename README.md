@@ -1,0 +1,2 @@
+# Visual-Analytics-of-Global-Supply-Exploring-Operational-Efficiency-Customer-Demand-and-Profitability
+I will be creating a data visualization project to communicate insights from a  given dataset. Data visualization is an essential skill for effectively presenting and interpreting data.  By creating meaningful visual representations of data, you can identify patterns, trends, and  relationships that might otherwise be challenging to perceive.
